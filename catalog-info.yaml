@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: leaf
+  description: Luxoft Edge Acceleration Framework
+  tags:
+    - java
+    - python
+    - javascript
+    - angular 
+spec:
+  type: website
+  lifecycle: experimental
+  owner: Luxoft connected mobility team
+  system: public-websites
